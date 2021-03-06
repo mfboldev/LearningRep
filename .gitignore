@@ -1,0 +1,4 @@
+# Don't track of these folders
+.vscode/
+bin/
+obj/
