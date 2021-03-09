@@ -17,6 +17,18 @@
 		},
 		{
 			"path": "6. Casting Converting"
+		},
+		{
+			"path": "7. Handling Exception Errors"
+		},
+		{
+			"path": "8. Checking for Overflow"
+		},
+		{
+			"path": "3.1 Test your knowledge"
+		},
+		{
+			"path": "3.2 FizzBuzz"
 		}
 	],
 	"settings": {}
